@@ -3,6 +3,7 @@
 확정 가구 배치를 기준으로 만든 사무실 3D 투어입니다. GitHub Pages로 배포됩니다.
 
 - `index.html` 안내 페이지
+- `office-video-tour.html` / `office-video-tour.mp4` 동영상 투어 (1920×1080, 24fps, 약 28초, 6개 장면, 배경음악 포함)
 - `office-360-tour.html` 고화질 360° 투어 (Blender 렌더, 4개 지점)
 - `office-3d-tour.html` 3D 자유이동 투어 (Three.js r128, 가구 편집·배치 저장)
 - `office-layout-final.html` / `.json` 가구 배치 확정본 (2D)
