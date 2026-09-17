@@ -1,95 +1,12 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex">
-<title>1301호 사무실 투어</title>
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>1301호 사무실 배치도 · 버전 선택</title>
 <style>
-  :root { --ink:#1d2a24; --muted:#5f6b66; --line:#dfe4e1; --bg:#f6f7f6; --card:#ffffff; --accent:#1f5a43; }
-  * { box-sizing:border-box; }
-  body { margin:0; background:var(--bg); color:var(--ink); font-family:Pretendard,"Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif; line-height:1.55; }
-  main { max-width:1080px; margin:0 auto; padding:40px 20px 72px; }
-  h1 { font-size:28px; margin:0 0 6px; letter-spacing:-0.01em; }
-  .sub { color:var(--muted); margin:0 0 28px; }
-  .tours { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:16px; margin-bottom:36px; }
-  .tour { display:block; background:var(--card); border:1px solid var(--line); border-radius:14px; overflow:hidden; text-decoration:none; color:inherit; transition:transform .15s, box-shadow .15s; }
-  .tour:hover { transform:translateY(-2px); box-shadow:0 10px 28px rgba(0,0,0,.08); }
-  .tour img { width:100%; aspect-ratio:16/9; object-fit:cover; display:block; background:#e9ece9; }
-  .tour .t { padding:16px 18px 18px; }
-  .tour h2 { font-size:18px; margin:0 0 6px; }
-  .tour p { margin:0; color:var(--muted); font-size:14px; }
-  .tour .go { display:inline-block; margin-top:12px; background:var(--accent); color:#fff; padding:8px 14px; border-radius:8px; font-size:14px; font-weight:600; }
-  h3 { font-size:17px; margin:28px 0 12px; }
-  .gallery { display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:12px; }
-  .gallery a { display:block; border-radius:10px; overflow:hidden; border:1px solid var(--line); background:var(--card); }
-  .gallery img { width:100%; aspect-ratio:4/3; object-fit:cover; display:block; }
-  .gallery span { display:block; padding:8px 10px; font-size:13px; color:var(--muted); }
-  .note { margin-top:36px; padding:16px 18px; background:var(--card); border:1px solid var(--line); border-radius:12px; font-size:14px; color:var(--muted); }
-  .note ul { margin:8px 0 0; padding-left:18px; }
-  @media (max-width:600px) { main { padding:28px 16px 56px; } h1 { font-size:24px; } }
-</style>
-</head>
-<body>
-<main>
-  <h1>1301호 사무실 투어</h1>
-  <p class="sub">확정 가구 배치를 기준으로 만든 3D 사무실입니다. 아래에서 둘러보기 방식을 고르세요.</p>
-
-  <div class="tours">
-    <a class="tour" href="office-video-tour.html">
-      <img src="img/video-poster.jpg" alt="동영상 투어 미리보기">
-      <div class="t">
-        <h2>동영상 투어</h2>
-        <p>홀 입구부터 탕비실까지 여섯 장면을 카메라가 걸어서 보여 주는 28초 영상입니다. 장면 이름을 누르면 그 위치로 건너뜁니다.</p>
-        <span class="go">동영상 보기</span>
-      </div>
-    </a>
-    <a class="tour" href="office-360-tour.html">
-      <img src="img/preview-360.png" alt="360도 투어 미리보기">
-      <div class="t">
-        <h2>고화질 360° 투어</h2>
-        <p>홀 입구, 중앙 복도, 대표실, 이요한 자리 네 지점에서 화면을 드래그해 둘러봅니다. 지점 이름을 누르면 이동합니다.</p>
-        <span class="go">360° 투어 열기</span>
-      </div>
-    </a>
-    <a class="tour" href="office-3d-tour.html">
-      <img src="img/render-overview.png" alt="3D 자유이동 투어 미리보기">
-      <div class="t">
-        <h2>3D 자유이동 투어</h2>
-        <p>W A S D 키나 화면 아래 버튼으로 걸어 다닙니다. 가구를 골라 위치와 회전을 바꾸고 배치를 저장할 수 있습니다.</p>
-        <span class="go">3D 투어 열기</span>
-      </div>
-    </a>
-    <a class="tour" href="office-layout-final.html">
-      <img src="img/layout-final.png" alt="가구 배치 확정본">
-      <div class="t">
-        <h2>가구 배치 확정본 (2D)</h2>
-        <p>위에서 본 확정 배치도입니다. 가구 51개의 위치와 번호를 확인합니다.</p>
-        <span class="go">배치도 열기</span>
-      </div>
-    </a>
-  </div>
-
-  <h3>렌더 이미지</h3>
-  <div class="gallery">
-    <a href="img/render-hall.png" target="_blank"><img src="img/render-hall.png" alt="홀"><span>홀</span></a>
-    <a href="img/render-workspace.png" target="_blank"><img src="img/render-workspace.png" alt="업무공간"><span>업무공간</span></a>
-    <a href="img/render-ceo-room.png" target="_blank"><img src="img/render-ceo-room.png" alt="대표실"><span>대표실</span></a>
-    <a href="img/render-pantry.png" target="_blank"><img src="img/render-pantry.png" alt="탕비실"><span>탕비실</span></a>
-    <a href="img/render-desk-yohan.png" target="_blank"><img src="img/render-desk-yohan.png" alt="이요한 자리"><span>이요한 자리</span></a>
-    <a href="img/render-entrance.png" target="_blank"><img src="img/render-entrance.png" alt="입구"><span>입구</span></a>
-    <a href="img/layout-final.svg" target="_blank"><img src="img/layout-final.png" alt="배치도 전체"><span>배치도 전체 (SVG)</span></a>
-  </div>
-
-  <div class="note">
-    이 모델은 측량 결과나 시공 도면이 아닙니다.
-    <ul>
-      <li>전체 길이 14.45m와 확정 배치의 바닥 좌표를 사용했습니다. 방별 깊이, 천장 높이, 기둥 치수는 실측 전 가정값입니다.</li>
-      <li>가구는 사진에서 읽은 형태로 만든 근사 모델이며 제조사 원본이 아닙니다.</li>
-      <li>3D 투어에서 가구를 옮겨도 360° 화면에는 반영되지 않습니다. 변경 배치는 다시 렌더링해야 합니다.</li>
-      <li>투어는 Chrome, Edge, Safari 최신 버전에서 동작합니다. 첫 로딩에 몇 초가 걸립니다.</li>
-    </ul>
-  </div>
-</main>
-</body>
-</html>
+*{box-sizing:border-box}body{margin:0;color:#253b3a;background:#f0f3ef;font:14px/1.5 'Malgun Gothic',Arial,sans-serif}.bar{height:104px;padding:13px 24px;background:#fff;border-bottom:1px solid #d5dfda;display:flex;align-items:center;justify-content:space-between;gap:20px}.brand small{font-size:10px;letter-spacing:.15em;color:#658474}.brand h1{font-size:18px;margin:2px 0}.brand p{margin:0;color:#718077;font-size:11px}.controls{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.tabs{display:flex;gap:4px;background:#eef2ed;padding:4px;border-radius:9px}button,a{font:inherit;border:0;border-radius:6px;padding:9px 14px;cursor:pointer;white-space:nowrap}button{background:transparent;color:#526c60}button[aria-selected=true]{background:#253b3a;color:white}a{color:#456759;text-decoration:none;border:1px solid #d5dfda;font-size:12px}a:hover{background:#f0f3ef}.pane{height:calc(100dvh - 104px)}iframe{display:block;width:100%;height:100%;border:0;background:white}[hidden]{display:none!important}.hint{font-size:11px;color:#7c887e}.downloads{display:flex;gap:5px}@media(max-width:800px){.bar{height:145px;display:block;padding:10px 12px}.brand h1{font-size:16px}.brand p{display:none}.brand{margin-bottom:8px}.controls{gap:6px;justify-content:space-between}.tabs button{font-size:12px;padding:8px}.downloads a{padding:7px 9px;font-size:11px}.hint{display:none}.pane{height:calc(100dvh - 145px)}}
+</style></head><body>
+<header class="bar"><div class="brand"><small>OFFICE 1301</small><h1>사무실 가구 배치도</h1><p>원래 확정본과 최신 배치를 비교해 보세요.</p></div><div class="controls"><div class="tabs" role="tablist" aria-label="배치도 버전"><button id="tab-v2" role="tab" aria-selected="true" aria-controls="pane-v2">버전 2 · 최신</button><button id="tab-v1" role="tab" aria-selected="false" aria-controls="pane-v1">버전 1 · 원래 확정본</button></div><div class="downloads"><a id="image-link" href="v2-layout.png" target="_blank" rel="noopener">도면 이미지</a><a id="pdf-link" href="v2-layout.pdf" target="_blank" rel="noopener">PDF</a><a id="data-link" href="v2-layout.json" download>JSON</a></div><span class="hint">수정한 배치는 도면 안의 저장 버튼으로 보관</span></div></header>
+<section id="pane-v2" class="pane" role="tabpanel" aria-labelledby="tab-v2"><iframe id="frame-v2" title="버전 2 최신 배치도" src="v2.html"></iframe></section>
+<section id="pane-v1" class="pane" role="tabpanel" aria-labelledby="tab-v1" hidden><iframe id="frame-v1" title="버전 1 원래 확정 배치도" src="v1.html"></iframe></section>
+<script>
+function selectVersion(version){if(!['v1','v2'].includes(version))version='v2';for(const v of ['v1','v2']){document.getElementById('pane-'+v).hidden=v!==version;document.getElementById('tab-'+v).setAttribute('aria-selected',String(v===version));}document.getElementById('image-link').href=version+'-layout.png';document.getElementById('data-link').href=version+'-layout.json';document.getElementById('pdf-link').hidden=version==='v1';history.replaceState(null,'','#'+version);}
+for(const v of ['v1','v2'])document.getElementById('tab-'+v).onclick=()=>selectVersion(v);selectVersion(location.hash.slice(1)||'v2');window.addEventListener('hashchange',()=>selectVersion(location.hash.slice(1)));document.querySelector('.tabs').addEventListener('keydown',e=>{if(e.key==='ArrowLeft'||e.key==='ArrowRight'){const v=document.getElementById('tab-v2').getAttribute('aria-selected')==='true'?'v1':'v2';selectVersion(v);document.getElementById('tab-'+v).focus();e.preventDefault();}});
+</script></body></html>
