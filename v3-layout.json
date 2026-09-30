@@ -34,7 +34,11 @@
       "oldId": "C-D01",
       "label": "대표 책상",
       "status": "배치",
-      "sizeLabel": "약 2500×2212"
+      "sizeLabel": "약 2500×2212",
+      "movingNo": "09",
+      "movingName": "대표님 L자 책상",
+      "movingDestination": "대표실",
+      "movingPlacement": "측면 수납장·분해 부품도 모두 09번"
     },
     {
       "id": "TV-02",
@@ -52,7 +56,11 @@
       "oldId": "TV02",
       "label": "3층 TV",
       "status": "배치",
-      "sizeLabel": "약 1100×180"
+      "sizeLabel": "약 1100×180",
+      "movingNo": "16",
+      "movingName": "TV · 기존 3층",
+      "movingDestination": "소회의실",
+      "movingPlacement": "15번 테이블 위, 아래쪽 벽 쪽"
     },
     {
       "id": "M-D-01",
@@ -70,7 +78,11 @@
       "oldId": "M-D01",
       "label": "이요한 자리",
       "status": "배치",
-      "sizeLabel": "1600×800"
+      "sizeLabel": "1600×800",
+      "movingNo": "01",
+      "movingName": "이요한 모션책상",
+      "movingDestination": "홀",
+      "movingPlacement": "위쪽 3석 묶음 오른쪽"
     },
     {
       "id": "M-D-02",
@@ -88,7 +100,11 @@
       "oldId": "M-D02",
       "label": "명대웅 자리",
       "status": "배치",
-      "sizeLabel": "1600×800"
+      "sizeLabel": "1600×800",
+      "movingNo": "02",
+      "movingName": "명대웅 모션책상",
+      "movingDestination": "홀",
+      "movingPlacement": "아래쪽 5석 묶음 맨 위"
     },
     {
       "id": "G-D2-01",
@@ -106,7 +122,11 @@
       "oldId": "G-D02",
       "label": "일반책상",
       "status": "배치",
-      "sizeLabel": "1600×700"
+      "sizeLabel": "1600×700",
+      "movingNo": "08",
+      "movingName": "일반책상 · 3층 데스커",
+      "movingDestination": "홀",
+      "movingPlacement": "명대웅 묶음 오른쪽 아래"
     },
     {
       "id": "G-D2-02",
@@ -124,7 +144,11 @@
       "oldId": "G-D03",
       "label": "일반책상",
       "status": "배치",
-      "sizeLabel": "1600×700"
+      "sizeLabel": "1600×700",
+      "movingNo": "03",
+      "movingName": "일반책상 · 3층 데스커",
+      "movingDestination": "홀",
+      "movingPlacement": "이요한 묶음 왼쪽 위"
     },
     {
       "id": "G-D2-03",
@@ -142,7 +166,11 @@
       "oldId": "G-D04",
       "label": "일반책상",
       "status": "배치",
-      "sizeLabel": "1600×700"
+      "sizeLabel": "1600×700",
+      "movingNo": "04",
+      "movingName": "일반책상 · 3층 데스커",
+      "movingDestination": "홀",
+      "movingPlacement": "이요한 묶음 왼쪽 아래"
     },
     {
       "id": "G-D3-01",
@@ -160,7 +188,11 @@
       "oldId": "G-D06",
       "label": "일반책상",
       "status": "배치",
-      "sizeLabel": "1600×700"
+      "sizeLabel": "1600×700",
+      "movingNo": "05",
+      "movingName": "일반책상 · 2층",
+      "movingDestination": "홀",
+      "movingPlacement": "명대웅 묶음 왼쪽 위"
     },
     {
       "id": "G-D3-02",
@@ -178,7 +210,11 @@
       "oldId": "G-D07",
       "label": "일반책상",
       "status": "배치",
-      "sizeLabel": "1600×700"
+      "sizeLabel": "1600×700",
+      "movingNo": "07",
+      "movingName": "일반책상 · 2층",
+      "movingDestination": "홀",
+      "movingPlacement": "명대웅 묶음 왼쪽 아래"
     },
     {
       "id": "G-D3-03",
@@ -196,7 +232,11 @@
       "oldId": "G-D08",
       "label": "일반책상",
       "status": "배치",
-      "sizeLabel": "1600×700"
+      "sizeLabel": "1600×700",
+      "movingNo": "06",
+      "movingName": "일반책상 · 2층",
+      "movingDestination": "홀",
+      "movingPlacement": "명대웅 묶음 오른쪽 위"
     },
     {
       "id": "M-T1-01",
@@ -215,7 +255,11 @@
       "label": "메인 회의테이블",
       "seats": 8,
       "status": "배치",
-      "sizeLabel": "2800×1000"
+      "sizeLabel": "2800×1000",
+      "movingNo": "12",
+      "movingName": "큰 회의테이블 · 2800×1000",
+      "movingDestination": "메인회의실",
+      "movingPlacement": "긴 면 양쪽 4석씩"
     },
     {
       "id": "TV-S-01",
@@ -233,7 +277,11 @@
       "oldId": "TV-S01",
       "label": "TV장",
       "status": "배치",
-      "sizeLabel": "2000×400"
+      "sizeLabel": "2000×400",
+      "movingNo": "13",
+      "movingName": "TV장 · 2000×400",
+      "movingDestination": "메인회의실",
+      "movingPlacement": "문 쪽"
     },
     {
       "id": "TV-01",
@@ -251,7 +299,11 @@
       "oldId": "TV01",
       "label": "회의실 TV",
       "status": "배치",
-      "sizeLabel": "약 1100×120"
+      "sizeLabel": "약 1100×120",
+      "movingNo": "14",
+      "movingName": "TV · 기존 2층",
+      "movingDestination": "메인회의실",
+      "movingPlacement": "13번 TV장 위"
     },
     {
       "id": "B-S2-01",
@@ -270,7 +322,11 @@
       "label": "높은 책장",
       "status": "배치",
       "sizeLabel": "1200×300",
-      "front": "south"
+      "front": "south",
+      "movingNo": "17",
+      "movingName": "높은 책장 · 1200×300",
+      "movingDestination": "탕비실 경계",
+      "movingPlacement": "왼쪽 / 앞면은 업무석 방향"
     },
     {
       "id": "B-S2-02",
@@ -289,7 +345,11 @@
       "label": "높은 책장",
       "status": "배치",
       "sizeLabel": "1200×300",
-      "front": "south"
+      "front": "south",
+      "movingNo": "18",
+      "movingName": "높은 책장 · 1200×300",
+      "movingDestination": "탕비실 경계",
+      "movingPlacement": "가운데 / 앞면은 업무석 방향"
     },
     {
       "id": "B-S2-03",
@@ -308,7 +368,11 @@
       "label": "높은 책장",
       "status": "배치",
       "sizeLabel": "1200×300",
-      "front": "south"
+      "front": "south",
+      "movingNo": "19",
+      "movingName": "높은 책장 · 1200×300",
+      "movingDestination": "탕비실 경계",
+      "movingPlacement": "오른쪽 / 앞면은 업무석 방향"
     },
     {
       "id": "B-S1-01",
@@ -327,7 +391,11 @@
       "label": "낮은 철제책장",
       "status": "배치",
       "sizeLabel": "1200×300",
-      "front": "north"
+      "front": "north",
+      "movingNo": "20",
+      "movingName": "낮은 철제책장 · 1200×300",
+      "movingDestination": "홀",
+      "movingPlacement": "명대웅 묶음 아래 왼쪽"
     },
     {
       "id": "B-S1-02",
@@ -346,7 +414,11 @@
       "label": "낮은 철제책장",
       "status": "배치",
       "sizeLabel": "1200×300",
-      "front": "north"
+      "front": "north",
+      "movingNo": "21",
+      "movingName": "낮은 철제책장 · 1200×300",
+      "movingDestination": "홀",
+      "movingPlacement": "명대웅 묶음 아래 오른쪽"
     },
     {
       "id": "B-S1-03",
@@ -365,7 +437,11 @@
       "label": "낮은 철제책장",
       "status": "배치",
       "sizeLabel": "1200×300",
-      "front": "west"
+      "front": "west",
+      "movingNo": "22",
+      "movingName": "낮은 철제책장 · 1200×300",
+      "movingDestination": "홀",
+      "movingPlacement": "오른쪽 벽"
     },
     {
       "id": "S-C1-01",
@@ -383,7 +459,11 @@
       "oldId": "S-C01",
       "label": "낮은 수납장",
       "status": "배치",
-      "sizeLabel": "800×400"
+      "sizeLabel": "800×400",
+      "movingNo": "26",
+      "movingName": "낮은 수납장 · 800×400",
+      "movingDestination": "홀 복도 경계",
+      "movingPlacement": "명대웅 묶음 왼쪽, 맨 위"
     },
     {
       "id": "S-C1-02",
@@ -401,7 +481,11 @@
       "oldId": "S-C02",
       "label": "낮은 수납장",
       "status": "배치",
-      "sizeLabel": "800×400"
+      "sizeLabel": "800×400",
+      "movingNo": "27",
+      "movingName": "낮은 수납장 · 800×400",
+      "movingDestination": "홀 복도 경계",
+      "movingPlacement": "26번 아래"
     },
     {
       "id": "S-C2-01",
@@ -419,7 +503,11 @@
       "oldId": "S-C03",
       "label": "낮은 수납장",
       "status": "배치",
-      "sizeLabel": "800×320"
+      "sizeLabel": "800×320",
+      "movingNo": "25",
+      "movingName": "낮은 수납장 · 800×320",
+      "movingDestination": "홀 복도 경계",
+      "movingPlacement": "24번 아래"
     },
     {
       "id": "S-C2-02",
@@ -437,7 +525,11 @@
       "oldId": "S-C04",
       "label": "낮은 수납장",
       "status": "배치",
-      "sizeLabel": "800×320"
+      "sizeLabel": "800×320",
+      "movingNo": "24",
+      "movingName": "낮은 수납장 · 800×320",
+      "movingDestination": "홀 복도 경계",
+      "movingPlacement": "23번 아래"
     },
     {
       "id": "S-C3-01",
@@ -455,7 +547,11 @@
       "oldId": "S-C05",
       "label": "오픈 수납장",
       "status": "배치",
-      "sizeLabel": "800×400"
+      "sizeLabel": "800×400",
+      "movingNo": "23",
+      "movingName": "상부 오픈·하부 도어 · 800×400",
+      "movingDestination": "홀 복도 경계",
+      "movingPlacement": "이요한 묶음 왼쪽, 맨 위"
     },
     {
       "id": "S-C1-03",
@@ -473,7 +569,11 @@
       "oldId": "S-C06",
       "label": "낮은 수납장",
       "status": "배치",
-      "sizeLabel": "800×400"
+      "sizeLabel": "800×400",
+      "movingNo": "28",
+      "movingName": "낮은 수납장 · 800×400",
+      "movingDestination": "홀 복도 경계",
+      "movingPlacement": "27번 아래"
     },
     {
       "id": "S-C1-04",
@@ -491,7 +591,11 @@
       "oldId": "S-C07",
       "label": "낮은 수납장",
       "status": "배치",
-      "sizeLabel": "800×400"
+      "sizeLabel": "800×400",
+      "movingNo": "29",
+      "movingName": "낮은 수납장 · 800×400",
+      "movingDestination": "홀 복도 경계",
+      "movingPlacement": "28번 아래"
     },
     {
       "id": "P-T-01",
@@ -509,7 +613,11 @@
       "oldId": "P-T01",
       "label": "간식대",
       "status": "배치",
-      "sizeLabel": "1600×400"
+      "sizeLabel": "1600×400",
+      "movingNo": "30",
+      "movingName": "간식대 · 1600×400",
+      "movingDestination": "출입구 쪽",
+      "movingPlacement": "출입구 오른쪽 벽"
     },
     {
       "id": "RF-01",
@@ -527,7 +635,11 @@
       "oldId": "RF01",
       "label": "냉장고",
       "status": "배치",
-      "sizeLabel": "약 750×700"
+      "sizeLabel": "약 750×700",
+      "movingNo": "35",
+      "movingName": "냉장고 1",
+      "movingDestination": "탕비실",
+      "movingPlacement": "오른쪽 창가 쪽"
     },
     {
       "id": "RF-02",
@@ -545,7 +657,11 @@
       "oldId": "RF02",
       "label": "냉장고",
       "status": "배치",
-      "sizeLabel": "약 750×700"
+      "sizeLabel": "약 750×700",
+      "movingNo": "36",
+      "movingName": "냉장고 2",
+      "movingDestination": "탕비실",
+      "movingPlacement": "오른쪽 홀 쪽"
     },
     {
       "id": "WP-01",
@@ -563,7 +679,11 @@
       "oldId": "WP01",
       "label": "정수기",
       "status": "배치",
-      "sizeLabel": "약 400×300"
+      "sizeLabel": "약 400×300",
+      "movingNo": "37",
+      "movingName": "정수기",
+      "movingDestination": "탕비실",
+      "movingPlacement": "싱크대 위"
     },
     {
       "id": "MW-01",
@@ -581,7 +701,11 @@
       "oldId": "MW01",
       "label": "전자레인지",
       "status": "배치",
-      "sizeLabel": "약 500×400"
+      "sizeLabel": "약 500×400",
+      "movingNo": "38",
+      "movingName": "전자레인지",
+      "movingDestination": "탕비실",
+      "movingPlacement": "싱크대 위"
     },
     {
       "id": "RB-01",
@@ -600,7 +724,11 @@
       "zone": "balcony",
       "label": "분리수거함",
       "status": "배치",
-      "sizeLabel": "약 450×400"
+      "sizeLabel": "약 450×400",
+      "movingNo": "39",
+      "movingName": "분리수거함 1",
+      "movingDestination": "베란다 쪽",
+      "movingPlacement": "후보 위치 / 현장 지정"
     },
     {
       "id": "RB-02",
@@ -619,7 +747,11 @@
       "zone": "balcony",
       "label": "분리수거함",
       "status": "배치",
-      "sizeLabel": "약 450×400"
+      "sizeLabel": "약 450×400",
+      "movingNo": "40",
+      "movingName": "분리수거함 2",
+      "movingDestination": "베란다 쪽",
+      "movingPlacement": "후보 위치 / 현장 지정"
     },
     {
       "id": "RB-03",
@@ -638,7 +770,11 @@
       "zone": "balcony",
       "label": "분리수거함",
       "status": "배치",
-      "sizeLabel": "약 450×400"
+      "sizeLabel": "약 450×400",
+      "movingNo": "41",
+      "movingName": "분리수거함 3",
+      "movingDestination": "베란다 쪽",
+      "movingPlacement": "후보 위치 / 현장 지정"
     },
     {
       "id": "CP-01",
@@ -656,7 +792,11 @@
       "oldId": "PR01",
       "label": "복합기",
       "status": "배치",
-      "sizeLabel": "약 850×800"
+      "sizeLabel": "약 850×800",
+      "movingNo": "34",
+      "movingName": "복합기",
+      "movingDestination": "출입구 쪽",
+      "movingPlacement": "간식대 오른쪽"
     },
     {
       "id": "SH-01",
@@ -674,7 +814,11 @@
       "oldId": "SH01",
       "label": "파쇄기(아래)",
       "status": "배치",
-      "sizeLabel": "약 400×350"
+      "sizeLabel": "약 400×350",
+      "movingNo": "33",
+      "movingName": "파쇄기",
+      "movingDestination": "출입구 쪽",
+      "movingPlacement": "30번 간식대 아래"
     },
     {
       "id": "BD-01",
@@ -692,7 +836,11 @@
       "oldId": "BD01",
       "label": "제본기",
       "status": "배치",
-      "sizeLabel": "약 450×300"
+      "sizeLabel": "약 450×300",
+      "movingNo": "31",
+      "movingName": "제본기 1",
+      "movingDestination": "출입구 쪽",
+      "movingPlacement": "30번 간식대 위"
     },
     {
       "id": "BD-02",
@@ -710,7 +858,11 @@
       "oldId": "BD02",
       "label": "제본기",
       "status": "배치",
-      "sizeLabel": "약 450×300"
+      "sizeLabel": "약 450×300",
+      "movingNo": "32",
+      "movingName": "제본기 2",
+      "movingDestination": "출입구 쪽",
+      "movingPlacement": "30번 간식대 위"
     },
     {
       "id": "S-C1-05",
@@ -728,7 +880,11 @@
       "oldId": "C-S01",
       "label": "프린터장",
       "status": "배치",
-      "sizeLabel": "800×400"
+      "sizeLabel": "800×400",
+      "movingNo": "10",
+      "movingName": "프린터 수납장 · 800×400",
+      "movingDestination": "대표실",
+      "movingPlacement": "대표실 책상 앞쪽"
     },
     {
       "id": "PR-01",
@@ -746,7 +902,11 @@
       "oldId": "C-PR01",
       "label": "프린터",
       "status": "배치",
-      "sizeLabel": "약 550×350"
+      "sizeLabel": "약 550×350",
+      "movingNo": "11",
+      "movingName": "Canon 프린터",
+      "movingDestination": "대표실",
+      "movingPlacement": "10번 수납장 위"
     },
     {
       "id": "SINK-01",
@@ -784,7 +944,11 @@
       "label": "소회의 테이블",
       "seats": 6,
       "status": "배치",
-      "sizeLabel": "2100×850"
+      "sizeLabel": "2100×850",
+      "movingNo": "15",
+      "movingName": "작은 회의테이블 · 2100×850",
+      "movingDestination": "소회의실",
+      "movingPlacement": "아래쪽 벽 밀착, 긴 면 양쪽 3석씩"
     }
   ],
   "attached": [],
@@ -796,7 +960,8 @@
     "두 업무 묶음 사이 의자 뒤 간격을 530mm에서 1000mm로 확대. 이요한 쪽 3석은 유지하고 명대웅 쪽 5석 및 하단 책장 2대를 입구 쪽으로 470mm 이동. 책상 몸체 간 2320mm에서 의자 깊이 560mm와 책상 간격 100mm를 양쪽 제외한 값. 명대웅 쪽 2×2 중앙에는 횡단 통로 없음.",
     "이요한 책상 오른쪽 끝~벽 940mm, 의자 뒤~벽 약 280mm. 명대웅 책상 오른쪽 끝~벽 1240mm는 측면 간격이며 의자 뒤 여유가 아님. 옆 철제책장 깊이 300mm 제외 시 책상 옆 폭은 940mm.",
     "소회의실은 세로 2100×850 테이블 및 상판 TV를 아래쪽 벽에 밀착, 6석. 메인 회의실은 2800×1000 테이블, 긴 면 4+4 총 8석. 의자는 배치 기호이며 반입 수량과는 별도.",
-    "전체 14.45×8.34m 가정 유지. 방 깊이·문·기둥 돌출·기기 외곽은 실측 확인. 온라인에서 이동·회전 후 JSON 저장 가능. 다른 기기나 다른 사람에게 편집 내용이 자동 동기화되지는 않음."
+    "전체 14.45×8.34m 가정 유지. 방 깊이·문·기둥 돌출·기기 외곽은 실측 확인. 온라인에서 이동·회전 후 JSON 저장 가능. 다른 기기나 다른 사람에게 편집 내용이 자동 동기화되지는 않음.",
+    "이사 식별번호 01~50: 도면·목록·실물에 같은 번호 사용. 분해 상판·다리·부속품은 동일 번호. 의자는 목적지만 표시하고 PC·모니터·개인 짐은 사용하는 책상 번호로 묶음. 싱크대는 존치하여 번호 없음."
   ],
   "unplaced": [
     {
@@ -815,7 +980,11 @@
       "oldId": "G-D05",
       "label": "일반책상",
       "status": "미조립 보관",
-      "sizeLabel": "1600×700"
+      "sizeLabel": "1600×700",
+      "movingNo": "42",
+      "movingName": "보관 책상 · 3층 데스커 1600×700",
+      "movingDestination": "베란다 보관",
+      "movingPlacement": "조립하지 마세요"
     },
     {
       "id": "G-D3-04",
@@ -833,7 +1002,11 @@
       "oldId": "G-D09",
       "label": "일반책상",
       "status": "미조립 보관",
-      "sizeLabel": "1600×700"
+      "sizeLabel": "1600×700",
+      "movingNo": "43",
+      "movingName": "보관 책상 · 2층 1600×700",
+      "movingDestination": "베란다 보관",
+      "movingPlacement": "조립하지 마세요"
     },
     {
       "id": "G-D3-05",
@@ -858,7 +1031,11 @@
         "chair": "bottom",
         "room": "홀 · 입구 쪽 2석"
       },
-      "status": "미조립 보관"
+      "status": "미조립 보관",
+      "movingNo": "44",
+      "movingName": "보관 책상 · 2층 1600×700",
+      "movingDestination": "베란다 보관",
+      "movingPlacement": "조립하지 마세요"
     },
     {
       "id": "G-D3-06",
@@ -883,7 +1060,11 @@
         "chair": "bottom",
         "room": "홀 · 입구 쪽 2석"
       },
-      "status": "미조립 보관"
+      "status": "미조립 보관",
+      "movingNo": "45",
+      "movingName": "보관 책상 · 2층 1600×700",
+      "movingDestination": "베란다 보관",
+      "movingPlacement": "조립하지 마세요"
     },
     {
       "id": "G-D3-07",
@@ -908,7 +1089,11 @@
         "chair": "left",
         "room": "아래 직원방 · 5석"
       },
-      "status": "미조립 보관"
+      "status": "미조립 보관",
+      "movingNo": "46",
+      "movingName": "보관 책상 · 2층 1600×700",
+      "movingDestination": "베란다 보관",
+      "movingPlacement": "조립하지 마세요"
     },
     {
       "id": "G-D3-08",
@@ -933,7 +1118,11 @@
         "chair": "right",
         "room": "아래 직원방 · 5석"
       },
-      "status": "미조립 보관"
+      "status": "미조립 보관",
+      "movingNo": "47",
+      "movingName": "보관 책상 · 2층 1600×700",
+      "movingDestination": "베란다 보관",
+      "movingPlacement": "조립하지 마세요"
     },
     {
       "id": "G-D3-09",
@@ -958,7 +1147,11 @@
         "chair": "left",
         "room": "아래 직원방 · 5석"
       },
-      "status": "미조립 보관"
+      "status": "미조립 보관",
+      "movingNo": "48",
+      "movingName": "보관 책상 · 2층 1600×700",
+      "movingDestination": "베란다 보관",
+      "movingPlacement": "조립하지 마세요"
     },
     {
       "id": "G-D3-10",
@@ -983,7 +1176,11 @@
         "chair": "right",
         "room": "아래 직원방 · 5석"
       },
-      "status": "미조립 보관"
+      "status": "미조립 보관",
+      "movingNo": "49",
+      "movingName": "보관 책상 · 2층 1600×700",
+      "movingDestination": "베란다 보관",
+      "movingPlacement": "조립하지 마세요"
     },
     {
       "id": "G-D1-01",
@@ -1008,7 +1205,11 @@
         "chair": "bottom",
         "room": "직원방 아래 벽 쪽"
       },
-      "status": "미조립 보관"
+      "status": "미조립 보관",
+      "movingNo": "50",
+      "movingName": "보관 책상 · 베이직 1600×800",
+      "movingDestination": "베란다 보관",
+      "movingPlacement": "조립하지 마세요"
     }
   ],
   "crossAisles": [
@@ -1028,7 +1229,7 @@
   "obstacles": [],
   "schemaVersion": 5,
   "basedOn": "사용자 이미지 8석 배치 + 두 업무 묶음 사이 간격 확대",
-  "date": "2026-09-17",
+  "date": "2026-09-30",
   "networkZones": [
     {
       "x": 5.6,
@@ -1279,7 +1480,7 @@
       "발코니 후보, 위치 확인"
     ]
   ],
-  "revision": "v3-aisle-1000",
+  "revision": "v3-moving-numbers",
   "entryComparison": {
     "baseline": "버전 1 원래 확정본",
     "entryWallY": 14.45,
@@ -1288,5 +1489,307 @@
     "v1ChairEdge": 12.61,
     "v2DeskEdge": 12.0,
     "v2ChairEdge": 12.56
-  }
+  },
+  "movingManifest": [
+    [
+      "01",
+      "이요한 모션책상",
+      "홀",
+      "위쪽 3석 묶음 오른쪽"
+    ],
+    [
+      "02",
+      "명대웅 모션책상",
+      "홀",
+      "아래쪽 5석 묶음 맨 위"
+    ],
+    [
+      "03",
+      "일반책상 · 3층 데스커",
+      "홀",
+      "이요한 묶음 왼쪽 위"
+    ],
+    [
+      "04",
+      "일반책상 · 3층 데스커",
+      "홀",
+      "이요한 묶음 왼쪽 아래"
+    ],
+    [
+      "05",
+      "일반책상 · 2층",
+      "홀",
+      "명대웅 묶음 왼쪽 위"
+    ],
+    [
+      "06",
+      "일반책상 · 2층",
+      "홀",
+      "명대웅 묶음 오른쪽 위"
+    ],
+    [
+      "07",
+      "일반책상 · 2층",
+      "홀",
+      "명대웅 묶음 왼쪽 아래"
+    ],
+    [
+      "08",
+      "일반책상 · 3층 데스커",
+      "홀",
+      "명대웅 묶음 오른쪽 아래"
+    ],
+    [
+      "09",
+      "대표님 L자 책상",
+      "대표실",
+      "측면 수납장·분해 부품도 모두 09번"
+    ],
+    [
+      "10",
+      "프린터 수납장 · 800×400",
+      "대표실",
+      "대표실 책상 앞쪽"
+    ],
+    [
+      "11",
+      "Canon 프린터",
+      "대표실",
+      "10번 수납장 위"
+    ],
+    [
+      "12",
+      "큰 회의테이블 · 2800×1000",
+      "메인회의실",
+      "긴 면 양쪽 4석씩"
+    ],
+    [
+      "13",
+      "TV장 · 2000×400",
+      "메인회의실",
+      "문 쪽"
+    ],
+    [
+      "14",
+      "TV · 기존 2층",
+      "메인회의실",
+      "13번 TV장 위"
+    ],
+    [
+      "15",
+      "작은 회의테이블 · 2100×850",
+      "소회의실",
+      "아래쪽 벽 밀착, 긴 면 양쪽 3석씩"
+    ],
+    [
+      "16",
+      "TV · 기존 3층",
+      "소회의실",
+      "15번 테이블 위, 아래쪽 벽 쪽"
+    ],
+    [
+      "17",
+      "높은 책장 · 1200×300",
+      "탕비실 경계",
+      "왼쪽 / 앞면은 업무석 방향"
+    ],
+    [
+      "18",
+      "높은 책장 · 1200×300",
+      "탕비실 경계",
+      "가운데 / 앞면은 업무석 방향"
+    ],
+    [
+      "19",
+      "높은 책장 · 1200×300",
+      "탕비실 경계",
+      "오른쪽 / 앞면은 업무석 방향"
+    ],
+    [
+      "20",
+      "낮은 철제책장 · 1200×300",
+      "홀",
+      "명대웅 묶음 아래 왼쪽"
+    ],
+    [
+      "21",
+      "낮은 철제책장 · 1200×300",
+      "홀",
+      "명대웅 묶음 아래 오른쪽"
+    ],
+    [
+      "22",
+      "낮은 철제책장 · 1200×300",
+      "홀",
+      "오른쪽 벽"
+    ],
+    [
+      "23",
+      "상부 오픈·하부 도어 · 800×400",
+      "홀 복도 경계",
+      "이요한 묶음 왼쪽, 맨 위"
+    ],
+    [
+      "24",
+      "낮은 수납장 · 800×320",
+      "홀 복도 경계",
+      "23번 아래"
+    ],
+    [
+      "25",
+      "낮은 수납장 · 800×320",
+      "홀 복도 경계",
+      "24번 아래"
+    ],
+    [
+      "26",
+      "낮은 수납장 · 800×400",
+      "홀 복도 경계",
+      "명대웅 묶음 왼쪽, 맨 위"
+    ],
+    [
+      "27",
+      "낮은 수납장 · 800×400",
+      "홀 복도 경계",
+      "26번 아래"
+    ],
+    [
+      "28",
+      "낮은 수납장 · 800×400",
+      "홀 복도 경계",
+      "27번 아래"
+    ],
+    [
+      "29",
+      "낮은 수납장 · 800×400",
+      "홀 복도 경계",
+      "28번 아래"
+    ],
+    [
+      "30",
+      "간식대 · 1600×400",
+      "출입구 쪽",
+      "출입구 오른쪽 벽"
+    ],
+    [
+      "31",
+      "제본기 1",
+      "출입구 쪽",
+      "30번 간식대 위"
+    ],
+    [
+      "32",
+      "제본기 2",
+      "출입구 쪽",
+      "30번 간식대 위"
+    ],
+    [
+      "33",
+      "파쇄기",
+      "출입구 쪽",
+      "30번 간식대 아래"
+    ],
+    [
+      "34",
+      "복합기",
+      "출입구 쪽",
+      "간식대 오른쪽"
+    ],
+    [
+      "35",
+      "냉장고 1",
+      "탕비실",
+      "오른쪽 창가 쪽"
+    ],
+    [
+      "36",
+      "냉장고 2",
+      "탕비실",
+      "오른쪽 홀 쪽"
+    ],
+    [
+      "37",
+      "정수기",
+      "탕비실",
+      "싱크대 위"
+    ],
+    [
+      "38",
+      "전자레인지",
+      "탕비실",
+      "싱크대 위"
+    ],
+    [
+      "39",
+      "분리수거함 1",
+      "베란다 쪽",
+      "후보 위치 / 현장 지정"
+    ],
+    [
+      "40",
+      "분리수거함 2",
+      "베란다 쪽",
+      "후보 위치 / 현장 지정"
+    ],
+    [
+      "41",
+      "분리수거함 3",
+      "베란다 쪽",
+      "후보 위치 / 현장 지정"
+    ],
+    [
+      "42",
+      "보관 책상 · 3층 데스커 1600×700",
+      "베란다 보관",
+      "조립하지 마세요"
+    ],
+    [
+      "43",
+      "보관 책상 · 2층 1600×700",
+      "베란다 보관",
+      "조립하지 마세요"
+    ],
+    [
+      "44",
+      "보관 책상 · 2층 1600×700",
+      "베란다 보관",
+      "조립하지 마세요"
+    ],
+    [
+      "45",
+      "보관 책상 · 2층 1600×700",
+      "베란다 보관",
+      "조립하지 마세요"
+    ],
+    [
+      "46",
+      "보관 책상 · 2층 1600×700",
+      "베란다 보관",
+      "조립하지 마세요"
+    ],
+    [
+      "47",
+      "보관 책상 · 2층 1600×700",
+      "베란다 보관",
+      "조립하지 마세요"
+    ],
+    [
+      "48",
+      "보관 책상 · 2층 1600×700",
+      "베란다 보관",
+      "조립하지 마세요"
+    ],
+    [
+      "49",
+      "보관 책상 · 2층 1600×700",
+      "베란다 보관",
+      "조립하지 마세요"
+    ],
+    [
+      "50",
+      "보관 책상 · 베이직 1600×800",
+      "베란다 보관",
+      "조립하지 마세요"
+    ]
+  ]
 }
